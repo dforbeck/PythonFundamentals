@@ -22,9 +22,9 @@ class UnorderedList:
         self.head = None
     
     def add_item(self, new_item):
-        temp = Node(new_item)
-        temp.set_next(self.head)
-        self.head = temp
+        temp = Node(new_item) # create new node
+        temp.set_next(self.head) # take temp and set that to current head
+        self.head = temp # head is now temp
 
     def is_empty(self):
         return self.head == None

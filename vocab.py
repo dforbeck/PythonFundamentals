@@ -50,7 +50,15 @@ Abstraction- The act of stepping away from the intricate details and only
 dealing with the input and output of a procedure
 Encapsulation - Bundling data and functions that manipulate that data 
 together into a single module
-
+Return - The ability to pass data from inside of the function and terminate 
+the function as well
+Floats- positive or negative rational numbers
+Method Overriding - When a class inherits from another, re-defining 
+a method from the parent inside of the child to perform a different 
+task than originally intended.
+Interpolation - Insertion of data into a string to create a modular 
+template of a resulting string
+Attribute - a data value that is stored on an instance or class.
 
 
 """

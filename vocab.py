@@ -59,6 +59,19 @@ task than originally intended.
 Interpolation - Insertion of data into a string to create a modular 
 template of a resulting string
 Attribute - a data value that is stored on an instance or class.
+Big O notation - order of magnitude
+
+Algorithms
+***********
+(Note: easier to go through a sorted list, than not sorted.)
+Bubble Sort: O(n^2) time complexity (Big O notation)
+Selection sort: O(n^2) time complexity
+Insertion sort: O(n^2) time complexity
+Merge sort: O(nlogn)
+Heap sort: 
+Quick sort:
+ 
+
 
 
 """
